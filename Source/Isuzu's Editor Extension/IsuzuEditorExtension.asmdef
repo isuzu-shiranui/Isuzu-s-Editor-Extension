@@ -1,0 +1,8 @@
+{
+    "name": "IsuzuEditorExtension",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
